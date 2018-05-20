@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/albin/work_shared/workspace/models/rnn_text_writer_block_init_pro/final_check_out_shape/model.ckpt"
+all_model_checkpoint_paths: "/home/albin/work_shared/workspace/models/rnn_text_writer_block_init_pro/final_check_out_shape/model.ckpt"
